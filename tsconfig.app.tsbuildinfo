@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/vite-env.d.ts","./src/engine/collision.ts","./src/engine/config.ts","./src/engine/game.ts","./src/engine/input.ts","./src/engine/scenario.ts","./src/engine/sprite.ts","./src/engine/entities/bullet.ts","./src/engine/entities/enemy.ts","./src/engine/entities/player.ts","./src/ui/app.tsx"],"version":"5.9.3"}

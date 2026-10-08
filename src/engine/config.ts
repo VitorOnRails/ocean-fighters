@@ -1,0 +1,14 @@
+export const screenWidth = 500;
+export const screenHeight = 800;
+export const shipSize = 30;
+export const enemySize = 30;
+export const enemySpeed = 1;
+export const spawnInterval = 50;
+export const speed = 2;
+export const bulletWidth = 4;
+export const bulletHeight = 8;
+export const bulletSpeed = 6;
+export const bulletInterval = 10;
+export const pointsPerKill = 100;
+export const startingLives = 3;
+export const oceanSpeed = 0.7;
